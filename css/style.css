@@ -1,21 +1,30 @@
-div {
+* {
+    background-color: aliceblue;
     box-sizing: border-box;
-    height: 100px;
-    padding-top: 15px;
+    font-family: quicksand;
+}
+
+a {
+    padding: 1%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
     text-align: center;
-    width: 100px;
+    font-size: 400%;
 }
 
-.primero {
-    background-color: #ADD8E6;
-    left: 20px;
-    position: relative;
-    top: 30px;
+img {
+    width: 400px;
 }
 
-.segundo {
-    background-color: #90EE90;
-    bottom: 20px;
-    position: absolute;
-    right: 30px;
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
