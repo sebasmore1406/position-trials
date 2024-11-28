@@ -19,12 +19,12 @@ h1 {
 }
 
 img {
-    width: 400px;
+    width: 100%;
 }
 
 .quicksand {
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
